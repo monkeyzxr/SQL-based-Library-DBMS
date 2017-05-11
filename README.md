@@ -4,6 +4,13 @@ Created by Xiangru Zhou
 
 This SQL programming project is to create of a database host application that interfaces with a backend SQL database implementing a DBMS for library circulation desk application.
 
+****************************************
+About the database schema:
+
+I only upload the graph of this schema. 
+
+The sql file is NOT uploaded. It's easy to be created based on this chema.
+
 ******************************************
 Project Requirements:
 
