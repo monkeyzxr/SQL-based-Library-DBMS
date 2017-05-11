@@ -9,7 +9,7 @@ About the database schema:
 
 I only upload the graph of this schema. 
 
-The sql file is NOT uploaded. It's easy to be created based on this chema.
+The sql file is NOT uploaded. It's easy to be created based on this schema.
 
 ******************************************
 Project Requirements:
